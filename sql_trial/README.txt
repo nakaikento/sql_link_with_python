@@ -34,4 +34,4 @@ Done!! You can check what libraries you have got with the following command.
 
 5.If you want to EXIT from your virtualenv mode. JUST
 
-	deactiate        
+	deactivate        
